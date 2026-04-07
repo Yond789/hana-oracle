@@ -103,7 +103,7 @@ git push
 
 ## Installed Skills
 
-`/ux-review` `/wireframe` `/design-critique` `/user-story` `/a11y-check`
+`/recap` `/rrr` `/forward` `/standup` `/learn` `/dig` `/trace` `/talk-to` `/ux-review` `/wireframe` `/design-critique` `/user-story` `/a11y-check`
 
 ## Brain Structure
 
