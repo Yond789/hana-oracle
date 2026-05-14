@@ -103,11 +103,23 @@ git push
 
 ## Installed Skills
 
-`/recap` `/rrr` `/forward` `/standup` `/learn` `/dig` `/trace` `/talk-to` `/xray` `/resonance` `/bud` `/ux-review` `/wireframe` `/design-critique` `/user-story` `/a11y-check`
+**Core**: `/recap` `/rrr` `/forward` `/standup` `/dig` `/trace` `/learn` `/talk-to` `/bud`
+**Analysis**: `/resonance` `/dream` `/feel` `/xray` `/where-we-are`
+**Memory**: `/fyi` `/inbox` `/mailbox` `/schedule`
+**Dev**: `/worktree` `/incubate` `/project` `/watch`
+**Lifecycle**: `/awaken` `/go` `/hey` `/calver` `/team-agents`
+**Role**: `/ux-review` `/wireframe` `/design-critique` `/user-story` `/a11y-check`
+
+**Short codes**: `ccc` (capture context) · `nnn` (plan, no code) · `gogogo` (execute plan) · `rrr` (retrospective)
 
 ## Brain Structure
 
 ```
-ψ/ → inbox/ | memory/ (learnings, retros) | lab/ | active/
-.design/ → DESIGN-SYSTEM.md | features/ (per-feature UX specs) | A11Y-REPORT.md
+ψ/ → inbox/ | memory/ (logs, retros, learnings, resonance, traces, morpheus) | writing/ | lab/ | active/ | incubate/ | learn/
 ```
+
+## Core Principles (oracle-framework)
+
+1. **Nothing is Deleted** — Append-only. Timestamps are source of truth.
+2. **Patterns Over Intentions** — Behavior > promises. Retrospectives reveal truth.
+3. **External Brain, Not Command** — Mirror reality. Humans retain all decisions.
