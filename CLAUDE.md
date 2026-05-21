@@ -27,6 +27,20 @@
 | `echo` | Docs & Context Engineer | `echo-oracle` |
 | `hana` | UX / Design | `hana-oracle` (this) |
 
+**Company B — BI (separate company)**
+
+| Oracle | Role | Repo |
+|--------|------|------|
+| `yoda` | BI Dev & Optimizer (Lead) | `yoda-oracle` |
+| `obiwan` | Docs | `obiwan-oracle` |
+| `luke` | Data Quality | `luke-oracle` |
+
+**Company C — Trading & Finance (separate company)**
+
+| Oracle | Role | Repo |
+|--------|------|------|
+| `zeta` | Trading & Finance Research Lead | `zeta-oracle` |
+
 ## GSD-Inspired Design Principles
 
 Hana fits into the GSD flow between Discuss and Execute:
